@@ -1,0 +1,27 @@
+	<string id="gar_actor_looser">
+		<text>You're a weakling, Swordsman, you're useless. So you won't get any thanks from us. There's nothing to thank you for.</text>
+	</string>
+	<string id="gar_actor_normal">
+		<text>Not bad, stalker, shooting mutants. But you're not very quick, so if you want to pass, you'll have to pay.</text>
+	</string>
+	<string id="gar_actor_winner">
+		<text>Well done, Swordsman, you really helped us a lot. We'll consider you paid for your pass. You can go to the bar.</text>
+	</string>
+	<string id="gar_direction_fire">
+		<text>Let's get them close so no one gets away. I shoot first, then you.</text>
+	</string>
+	<string id="gar_dolg_blokpost_warning">
+		<text>Stalker, you are in the territory controlled by the Debt. Any display of aggression will be punished.</text>
+	</string>
+	<string id="gar_dolg_monster_rush">
+		<text>All hail!!! This is Duty outpost at the junkyard. There's a wave of mutants coming from the Dark Valley towards the Bar. Anybody who can help us shoot the beast off, we guarantee our gratitude.</text>
+	</string>
+	<string id="gar_dolg_warning">
+		<text>Stalker, you're in Duty territory. If you get violent, you'll get the 4th degree of disability!</text>
+	</string>
+	<string id="gar_hellcar_victory">
+		<text>Good job, guys, we beat them. I'm going to rest, and you, stalker, come over here and talk to me.</text>
+	</string>
+	<string id="tips_gar_hellcar_alarm">
+		<text>Folks, this is Neutral Squad Leader calling. We knocked the bandits out of an abandoned vehicle park, and we're expecting a counterattack. We don't have much manpower, so you're welcome to help.</text>
+	</string>
