@@ -1,0 +1,60 @@
+	<string id="esc_direction_fire">
+		<text>Do not fidget, attack strictly on my command.</text>
+	</string>
+	<string id="esc_fanat_victory">
+		<text>Victory!!! All those who are alive, come to me. Swordsman, come here and we'll talk.</text>
+	</string>
+	<string id="esc_return_dv">
+		<text>Hey, Swordsman, I'm glad you're alive, and I'm glad you stopped by for a visit. Stop by and have a chat. There's another job coming up.</text>
+	</string>
+	<string id="esc_tutorial_end">
+		<text>All right, you did the job. Let's consider that you passed the takeoff and landing course.</text>
+	</string>
+	<string id="esc_wolf_thanks">
+		<text>Swordsman, now you've got access to the camp. Come on up, let's talk.</text>
+	</string>
+	<string id="escape_fox_quest">
+		<text>Swordsman, speaking of the Strelka. A stalker came from a deep raid, he's called Fox. He apparently had a hard time - he asked for help. He dragged on the tail of some creatures, said that he would not last long. He might know about the shooter. So run to him and give him the coordinates.</text>
+	</string>
+	<string id="escape_stalker_death">
+		<text>You screwed up, Swordsman. Even though it wasn't your fault, the boys died. That happens a lot in the zone. Anyway, you passed the test. Come back, we'll talk about the substance.</text>
+	</string>
+	<string id="escape_stalker_helped">
+		<text>Well done, Swordsman. If you carry on like that, you'll make a lot of friends. Come over to my place, we'll talk business.</text>
+	</string>
+	<string id="escape_stalker_killed">
+		<text>Well, Swordsman, you shouldn't do that. One way or another, you passed the test, but now it's up to you to deal with Wolf and his brigade. Anyway, I'm waiting for you, I have a job to do.</text>
+	</string>
+	<string id="info_esc_give_agroprom_task">
+		<text>Swordsman. The military dug up something at the Agroprom Research Institute. And I'm interested in it, and I guess you are too. We need to get the information and take it to the bartender at the stalker bar. Do it.</text>
+	</string>
+	<string id="tips_esc_trader_about_anomalies">
+		<text>Watch out! You are near anomalies. Use the bolts to determine their boundaries.</text>
+	</string>
+	<string id="tips_esc_trader_about_pda">
+		<text>Press the Contacts button ($$ACTION_CONTACTS$$). In the contacts and on the mini-map on the face visor you see people within 250 meters with PDAs on. Their attitude towards you is indicated there. Be careful if enemies appear there. However, bandits and hee-hee, mutants do not usually turn on the PDA, so be careful in the Zone.</text>
+	</string>
+	<string id="tips_esc_trader_activate_map">
+		<text>To activate the map, press '$$ACTION_MAP$$'.</text>
+	</string>
+	<string id="tips_esc_trader_activate_pda">
+		<text>To activate the PDA, press '$$ACTION_ACTIVE_JOBS$$'.</text>
+	</string>
+	<string id="tips_esc_trader_how_to_talk">
+		<text>In order to talk to someone, aim your crosshair at him and press '$$ACTION_USE$$'.</text>
+	</string>
+	<string id="tips_esc_trader_quest_1">
+		<text>Find the artifact in the place marked on the map and bring it to the merchant.</text>
+	</string>
+	<string id="tutorial_flash_anomaly_alarm">
+		<text>Swordsman, watch closely. Next time it could be you!</text>
+	</string>
+	<string id="tutorial_trader_give_medikit">
+		<text>Give the first aid kit to this jerk.</text>
+	</string>
+	<string id="tutorial_trader_look_vagon">
+		<text>Swordsman!!! To hell with the artifact, you can bring it back later. Run to the wagon by the road, my men need help there! You idiots thought of firing on a helicopter. I texted you the coordinates.</text>
+	</string>
+	<string id="tutorial_trader_search_corpses">
+		<text>Search the corpses, there might be something useful.</text>
+	</string>
