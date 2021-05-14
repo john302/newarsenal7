@@ -1,0 +1,36 @@
+	<string id="mil_actor_blockpost">
+		<text>Stalker, you're coming up to the Barrier, don't dare spoil it, but we're happy to accept any help.</text>
+	</string>
+	<string id="mil_after_sniper_dead">
+		<text>"Swordsman, come to us for the calculation and further instructions."</text>
+	</string>
+	<string id="mil_fblockpost_warning">
+		<text>Swordsman, come back and take a position</text>
+	</string>
+	<string id="mil_info_freedom_radio">
+		<text>If you spend a whole night in the village on the Tower, something MUST happen...</text>
+	</string>
+	<string id="mil_info_max_mines">
+		<text>Remember the mines - the sapper makes two mistakes...</text>
+	</string>
+	<string id="mil_info_max_village">
+		<text>Swordsman be careful - they say there's a new anomaly in the village - it moves very fast, in addition to her asshole is not visible.</text>
+	</string>
+	<string id="mil_info_to_all">
+		<text>Attention all who wish to liquefy brains - the passage to the Radar guard detachment Monolith, I think you know that they shoot at everything. Good luck.</text>
+	</string>
+	<string id="mil_max_attack_signal">
+		<text>Let's attack, gang. Let's kill the lawmen.</text>
+	</string>
+	<string id="mil_mission_complete">
+		<text>Our task is done. Let's go back to the farm and settle our accounts there.</text>
+	</string>
+	<string id="mil_scull_attack_signal">
+		<text>Let's go, guys. The way is clear.</text>
+	</string>
+	<string id="mil_scull_info">
+		<text>Swordsman, take care of the snipers !!!</text>
+	</string>
+	<string id="mil_sniper_to_player_warning">
+		<text>Swordsman, be careful, or you might get hit in the head with a bullet...</text>
+	</string>
