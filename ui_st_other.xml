@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_drink">
+		<text>Drink</text>
+	</string>
+	<string id="ui_pda_details">
+		<text># /details</text>
+	</string>
+	<string id="ui_st_btn_cancel">
+		<text>Cancel</text>
+	</string>
+	<string id="ui_st_btn_no">
+		<text>No</text>
+	</string>
+	<string id="ui_st_btn_ok">
+		<text>ОК</text>
+	</string>
+	<string id="ui_st_btn_yes">
+		<text>Yes</text>
+	</string>
+	<string id="ui_st_days">
+		<text>Days</text>
+	</string>
+	<string id="ui_st_error">
+		<text>Error</text>
+	</string>
+	<string id="ui_st_file_exist_owerwrite_q">
+		<text>File exists, overwrite?</text>
+	</string>
+	<string id="ui_st_file_name_is_empty">
+		<text>File name is empty.</text>
+	</string>
+	<string id="ui_st_hours">
+		<text>Hours.</text>
+	</string>
+	<string id="ui_st_leave">
+		<text>Leave</text>
+	</string>
+	<string id="ui_st_mins">
+		<text>Mins.</text>
+	</string>
+	<string id="ui_st_months">
+		<text>Months.</text>
+	</string>
+	<string id="ui_st_params">
+		<text>Parameters</text>
+	</string>
+	<string id="ui_st_secs">
+		<text>Secs.</text>
+	</string>
+	<string id="ui_st_take_all">
+		<text>Take all</text>
+	</string>
+	<string id="ui_st_time_remains">
+		<text>Time remains</text>
+	</string>
+	<string id="ui_st_trade">
+		<text>Trade</text>
+	</string>
+	<string id="ui_st_voting_disabled">
+		<text>Voting Disabled</text>
+	</string>
+	<string id="ui_st_want_to_leave_game_q">
+		<text>Do you want to leave the game?</text>
+	</string>
+	<string id="ui_st_your_items">
+		<text>Your Items</text>
+	</string>
+	<string id="st_game_over_press_jump">
+		<text>Press ($$ACTION_JUMP$$) to return to main menu</text>
+	</string>
+	<string id="st_level">
+		<text>Level</text>
+	</string>
+	<string id="st_game_paused">
+		<text>Paused</text>
+	</string>
+	<string id="st_bolt">
+		<text>Bolt</text>
+	</string>
+	<string id="st_items">
+		<text>Items</text>
+	</string>
+	<string id="st_video">
+		<text>Video</text>
+	</string>
+	<string id="st_audio">
+		<text>Audio</text>
+	</string>
+	<string id="st_game">
+		<text>Game</text>
+	</string>
+	<string id="st_controll">
+		<text>Control</text>
+	</string>
+	<string id="ui_st_connecting_to_masterserver">
+		<text>Connecting to master server</text>
+	</string>
+	<string id="ui_st_load_game_confirm">
+		<text>Downloading the game will result in the loss of unsaved data. Would you like to continue?</text>
+	</string>
+	<string id="ui_st_invalid_saved_game">
+		<text>The version of the saved game does not match or the saved game is corrupted.</text>
+	</string>
+
+	<!-- стадии загрузки игры -->
+	<!-- Внимание! Символ '–' ниже - это не 'минус', а символ с кодом 150, которому в текстуре шрифта Graffiti19Russian сопоставлен 
+	'укороченный' пробел с шириной, в точности равный ширине символа '*'. Если будете менять соотношение пустого/заполненного
+	в этих строках, то не исполььзуйте ни минусы, ни пробелы, а копастой вставляйте такие же символы-->
+		
+	<string id="st_prefetching_objects">
+		<text>[–––––––––––––––––––––]</text>
+	</string>
+	<string id="st_server_starting">
+		<text>[=––––––––––––––––––––]</text>
+	</string>
+	<string id="st_loading_alife_simulator">
+		<text>[==–––––––––––––––––––]</text>
+	</string>
+	<string id="st_creating_new_game">
+		<text>[=========––––––––––––]</text>
+	</string>
+	<string id="st_loading_saved_game">
+		<text>[=========––––––––––––]</text>
+	</string>
+	<string id="st_server_connecting">
+		<text>[=========––––––––––––]</text>
+	</string>
+	<string id="st_client_connecting_to">
+		<text>[=========––––––––––––]</text>
+	</string>
+	<string id="st_opening_stream">
+		<text>[=========––––––––––––]</text>
+	</string>
+	<string id="st_loading_cform">
+		<text>[=========––––––––––––]</text>
+	</string>
+	<string id="st_loading_shaders">
+		<text>[=============––––––––]</text>
+	</string>
+	<string id="st_loading_geometry">
+		<text>[=============––––––––]</text>
+	</string>
+	<string id="st_loading_spatial_db">
+		<text>[=============––––––––]</text>
+	</string>
+	<string id="st_loading_details">
+		<text>[===============––––––]</text>
+	</string>
+	<string id="st_loading_sectors_portals">
+		<text>[===============––––––]</text>
+	</string>
+	<string id="st_loading_ai_objects">
+		<text>[===============––––––]</text>
+	</string>
+	<string id="st_client_spawning">
+		<text>[===============––––––]</text>
+	</string>
+	<string id="st_loading_textures">
+		<text>[===============––––––]</text>
+	</string>
+	<string id="st_client_synchronising">
+		<text>[===================––]</text>
+	</string>
+
+	<string id="st_pda_change_spot_hint">
+		<text>Change the label text</text>
+	</string>
+	<string id="st_pda_delete_spot">
+		<text>Delete tag</text>
+	</string>
+	
+	<string id="st_press_any_key">
+		<text>Press any key</text>
+	</string>
+	<string id="st_opt_smaa">
+		<text>SMAA</text>
+	</string>
+	<string id="st_opt_off">
+		<text>Disabled</text>
+	</string>
+	<string id="st_opt_low">
+		<text>Low</text>
+	</string>
+	<string id="st_opt_medium">
+		<text>Medium</text>
+	</string>
+	<string id="st_opt_high">
+		<text>High</text>
+	</string>
+</string_table>
