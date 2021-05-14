@@ -1,0 +1,27 @@
+	<string id="general_ecolog_tip_1">
+		<text>What happened?! Is he dead?! Come back at once!</text>
+	</string>
+	<string id="general_ecolog_tip_2">
+		<text>What happened?! Is he dead?! Take the measurements and come back immediately!</text>
+	</string>
+	<string id="storyline_ghost_tip">
+		<text>Sound recording of Ghost.</text>
+	</string>
+	<string id="storyline_vasilyev_tip">
+		<text>Vasiliev's sound recording.</text>
+	</string>
+	<string id="tips_labx16switcher_press">
+		<text>To deactivate the miracle machine, press ($$ACTION_USE$$)</text>
+	</string>
+	<string id="tips_labx16switcher_press_again">
+		<text>To turn on the miracle machine press ($$ACTION_USE$$)</text>
+	</string>
+	<string id="yan_saharov_message">
+		<text>Well done, Swordsman, you made it to the lab. It's very important for us to study the machine that's there. Try to turn it off so we can examine it.</text>
+	</string>
+	<string id="yan_saharov_message_2">
+		<text>Look, the prototype can't protect against strong radiation for long. I have foreseen such a case, so when you are exposed to strong radiation, you will set a timer. When the timer expires, the prototype will no longer protect you. Be careful, and don't forget the timer.</text>
+	</string>
+	<string id="yan_saharov_message_3">
+		<text>Well done, Swordsman! The radiation is off, you're alive. We called in a couple of military helicopters to sweep the zombie area, so don't go in there yet, so you don't get shot at. Oh, by the way, if you're in the area, stop by the bunker.</text>
+	</string>
