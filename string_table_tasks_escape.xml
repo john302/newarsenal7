@@ -1,0 +1,150 @@
+	<string id="esc_bandits_on_factory">
+		<text>Destroy the bandits in the factory</text>
+	</string>
+	<string id="esc_bandits_on_factory_0">
+		<text>Destroy the bandits in the factory.</text>
+	</string>
+	<string id="esc_bandits_on_factory_1">
+		<text>Kill all the bandits in the factory</text>
+	</string>
+	<string id="esc_bandits_on_factory_2">
+		<text>Talk to the merchant</text>
+	</string>
+	<string id="esc_bandits_on_factory_3">
+		<text>Talk to the Wolf</text>
+	</string>
+	<string id="esc_blockpost_case_to_trader">
+		<text>Steal a box from a roadblock</text>
+	</string>
+	<string id="esc_blockpost_case_to_trader_0">
+		<text>Steal a box of important documents from a roadblock.</text>
+	</string>
+	<string id="esc_blockpost_case_to_trader_1">
+		<text>Steal a box from a roadblock</text>
+	</string>
+	<string id="esc_blockpost_case_to_trader_2">
+		<text>Bring the box to the merchant</text>
+	</string>
+	<string id="esc_defend_lager">
+		<text>Protect the rookie camp from mercenaries</text>
+	</string>
+	<string id="esc_defend_lager_from_killers_0">
+		<text>Protect the rookie camp from mercenaries.</text>
+	</string>
+	<string id="esc_defend_lager_from_killers_1">
+		<text>Destroy a mercenary unit.</text>
+	</string>
+	<string id="esc_defend_lager_from_killers_2">
+		<text>Talk to the rookie commander</text>
+	</string>
+	<string id="esc_dinamit_to_volk">
+		<text>Eliminate the bandits at the ATP</text>
+	</string>
+	<string id="esc_dinamit_to_volk_0">
+		<text>Destroy the bandits at the ATP and report back to the Wolf.</text>
+	</string>
+	<string id="esc_dinamit_to_volk_1">
+		<text>Meet the Wolf people</text>
+	</string>
+	<string id="esc_dinamit_to_volk_2">
+		<text>Eliminate all bandits</text>
+	</string>
+	<string id="esc_dinamit_to_volk_3">
+		<text>Talk to the Wolf</text>
+	</string>
+	<string id="esc_help_wounded_from_raid">
+		<text>Ask the fox about the shooter</text>
+	</string>
+	<string id="esc_help_wounded_from_raid_0">
+		<text>Assist an injured stalker</text>
+	</string>
+	<string id="esc_help_wounded_from_raid_1">
+		<text>Help the Fox</text>
+	</string>
+	<string id="esc_help_wounded_from_raid_2">
+		<text>Get information about the Arrow</text>
+	</string>
+	<string id="esc_wounded_to_trader_gift">
+		<text>Deliver the package to the merchant.</text>
+	</string>
+	<string id="esc_wounded_to_trader_gift_0">
+		<text>Deliver the package to the merchant. He will be able to help you.</text>
+	</string>
+	<string id="garbage_meet_stalker">
+		<text>To meet Bes.</text>
+	</string>
+	<string id="garbage_meet_stalker_0">
+		<text>Meet Bes at the junkyard.</text>
+	</string>
+	<string id="meet_with_doctor">
+		<text>Meet the Doctor</text>
+	</string>
+	<string id="meet_with_doctor_1">
+		<text>Meet the Doctor</text>
+	</string>
+	<string id="meet_with_doctor_2">
+		<text>Meet the Doctor in Shooter's hiding place</text>
+	</string>
+	<string id="storyline_escape_eliminate_gunslinger">
+		<text>Kill Strelok</text>
+	</string>
+	<string id="storyline_escape_find_gunslinger">
+		<text>Find Strelok</text>
+	</string>
+	<string id="tutorial_find_artefact">
+		<text>Find Artefact</text>
+	</string>
+	<string id="tutorial_find_artefact_0">
+		<text>Find your first artifact.</text>
+	</string>
+	<string id="tutorial_find_artefact_1">
+		<text>Find an artifact</text>
+	</string>
+	<string id="tutorial_find_artefact_2">
+		<text>Bring the artifact to the merchant.</text>
+	</string>
+	<string id="tutorial_help_wounded">
+		<text>To take information from a scout</text>
+	</string>
+	<string id="tutorial_help_wounded_0">
+		<text>Bring information to the merchant</text>
+	</string>
+	<string id="tutorial_help_wounded_1">
+		<text>Talk to the Wolf</text>
+	</string>
+	<string id="tutorial_help_wounded_2">
+		<text>Get a flash drive from Nimble</text>
+	</string>
+	<string id="tutorial_help_wounded_3">
+		<text>Bring the flash drive to the merchant</text>
+	</string>
+	<string id="esc_trader_job">
+		<text>Merchant's work</text>
+	</string>
+	<string id="esc_trader_job_text">
+		<text>Get a special assignment from a merchant</text>
+	</string>
+	<string id="bar_barman_job">
+		<text>Bartender job</text>
+	</string>
+	<string id="bar_barman_job_text">
+		<text>Ask the bartender for a job</text>
+	</string>
+	<string id="yan_scientist_job">
+		<text>Helping Scientists</text>
+	</string>
+	<string id="yan_scientist_job_text">
+		<text>Offer your help to scientists</text>
+	</string>
+	<string id="find_railroad_passage">
+		<text>Sneaking behind a railroad embankment</text>
+	</string>
+	<string id="find_railroad_passage_1">
+		<text>To meet a chaperone</text>
+	</string>
+	<string id="find_railroad_passage_2">
+		<text>Cross the railway embankment</text>
+	</string>
+	<string id="find_railroad_passage_text">
+		<text>Before you go deeper into the Zone, you must cross an old railroad embankment. The only safe passage in it is guarded by the military. However, there is a small tunnel on the left, newcomers usually go through it. One of my debtors will be waiting for you there.</text>
+	</string>
