@@ -1,2 +1,3 @@
-# newarsenal7
-A WIP translation of New Arsenal 7 strings.
+# New Arsenal 7 translation.
+
+A WIP translation of New Arsenal 7 text.
