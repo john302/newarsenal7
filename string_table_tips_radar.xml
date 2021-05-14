@@ -1,0 +1,15 @@
+	<string id="rad_barman_spam">
+		<text>Swordman!? Alive!? That's great! You did manage to turn off the incinerator, all of us are trying to make our way through Pripyat to the center of the zone. There's no telling what'll be there. Could be an artifact clondige, could be the grantor of wishes. \n Right now a squad of veterans is gathering in front of Pripyat for the passage into the depths, if you hurry, you can join them, I'll warn them to wait.</text>
+	</string>
+	<string id="tips_bun_komand">
+		<text>Group one and two - check the first floor, group three - main hall, group four and five - second floor</text>
+	</string>
+	<string id="tips_rad_sos_suicide">
+		<text>...people, help me, I'm dying...</text>
+	</string>
+	<string id="tips_rad_switcher_press">
+		<text>To deactivate the setting, press ($$ACTION_USE$$)</text>
+	</string>
+	<string id="tips_rad_switcher_press_again">
+		<text>To turn on the installation, press ($$ACTION_USE$$)</text>
+	</string>
