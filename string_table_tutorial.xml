@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="binoc_tutorial">
+		<text>To use binoculars, select them ($$ACTION_wpn_5$$) and press "fire" to zoom in.</text>
+	</string>
+	<string id="binocular">
+		<text>Binocular</text>
+	</string>
+	<string id="crouch">
+		<text>Crouch</text>
+	</string>
+	<string id="crouch_down_tutorial">
+		<text>To duck low, press ($$ACTION_crouch$$) + (Shift)</text>
+	</string>
+	<string id="crouch_tutorial">
+		<text>To crouch, press ($$ACTION_crouch$$). To crouch low, press ($$ACTION_crouch$$) + ($$ACTION_accel$$)</text>
+	</string>
+	<string id="hide_weapon">
+		<text>Hide Weapon</text>
+	</string>
+	<string id="hide_weapon_tutorial">
+		<text>Some stalkers will not want to talk if you poke them in the face with a weapon. To hide a weapon, just select the bolt ($$ACTION_wpn_6$$).</text>
+	</string>
+	<string id="jump">
+		<text>Jump</text>
+	</string>
+	<string id="jump_tutorial">
+		<text>Jumping can help you climb low obstacles. In order to jump, press ($$ACTION_jump$$)</text>
+	</string>
+	<string id="move_tutorial">
+		<text>Ways of moving.</text>
+	</string>
+	<string id="overload">
+		<text>Overload</text>
+	</string>
+	<string id="overload_tutorial">
+		<text>You are not like a truck and you can't carry several tons on your back. The more you carry, the faster you lose strength. Eventually, if you gain too much, you won't be able to move.</text>
+	</string>
+	<string id="radiation">
+		<text>Radiation</text>
+	</string>
+	<string id="radiation_tutorial">
+		<text>When a character is in an area with a high radiation background or carries a radioactive artifact on his belt, he shows signs of radioactive damage. At the same time, the character's health begins to decrease. You can use anti-radiation or vodka to remove the effects of radiation poisoning.</text>
+	</string>
+	<string id="relation">
+		<text>Relations</text>
+	</string>
+	<string id="relation_tutorial">
+		<text>When a player helps someone, the stalker's attitude towards him and the character's reputation in general improves. If you have a good reputation, merchants will sell you items at a discount. If you have a bad reputation, then get ready for high prices. Also keep in mind that not all beasts are hostile, so don't be in a hurry to shoot everything that moves.</text>
+	</string>
+	<string id="sleep_tutorial">
+		<text>This is a special place to sleep. Here you can sleep, wait out the night, or just wait for your appointed hour. To sleep you have to open the inventory, set the time on the dial during which you want to sleep and click on the "Rest" button. After the specified time, the character will wake up. Sometimes he can dream.</text>
+	</string>
+	<string id="sprint">
+		<text>Sprint</text>
+	</string>
+	<string id="sprint_tutorial">
+		<text>In some cases, acceleration can save your life. Press ($$ACTION_sprint_toggle$$) while walking. During acceleration, the character runs faster and jumps farther, but also gets tired faster and cannot fire weapons.</text>
+	</string>
+	<string id="starvation_tutorial">
+		<text>When a character doesn't eat for a long time, he gets a feeling of hunger. When hunger becomes severe, the character's health slowly begins to decrease. In order for the character's health to stop decreasing, it is necessary to eat. You can satisfy your hunger by eating a loaf of bread, canned food or a piece of sausage.</text>
+	</string>
+	<string id="thirst_tutorial">
+		<text>When a character doesn't eat for a long time, he gets a feeling of hunger. When hunger becomes severe, the character's health slowly begins to decrease. In order for the character's health to stop decreasing, it is necessary to eat. You can satisfy your hunger by eating a loaf of bread, canned food or a piece of sausage.</text>
+	</string>
+	<string id="tutorial">
+		<text>Training</text>
+	</string>
+	<string id="weakness">
+		<text>Fatigue</text>
+	</string>
+	<string id="weakness_tutorial">
+		<text>If you run or carry a lot of weight, you get tired. If you're too tired, you won't be able to run or walk for a while. Luckily, your strength recovers quickly if you just stand around and rest for a while.</text>
+	</string>
+	<string id="weapon">
+		<text>State of the weapon</text>
+	</string>
+	<string id="weapon_tutorial">
+		<text>Every weapon has a parameter of toughness. The lower the strength of the weapon, the more often it jams. In order to use it again, it must be reloaded (button $$ACTION_wpn_reload$$). The strength of the weapon gradually decreases with use, and a few bullets hitting it can render it completely unusable.</text>
+	</string>
+	<string id="wound">
+		<text>Открытые раны</text>
+	</string>
+	<string id="wound_tutorial">
+		<text>When hitting a character, there is a chance that he will bleed. Bleeding is a permanent loss of health. The more serious the bleeding (green icon - weak bleeding, red - strong bleeding), the more health the character will lose per unit time. Bleedings eventually go away on their own, but with the help of bandages you can instantly stop bleeding of any severity.</text>
+	</string>
+	<string id="pda_diary_tutorial">
+		<text>In the dead stalker's PDA you found his observations of the anomalies in the tunnel. It turns out that he discovered a pattern in their work. You can read this information in your PDA in the "Diary" section.</text>
+	</string>
+</string_table>
