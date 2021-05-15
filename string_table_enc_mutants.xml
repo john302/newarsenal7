@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+   <string id="psy_dog">
+      <text>Chernobyl dog</text>
+   </string>
+   <string id="enc_mutant_psydog">
+      <text>At first glance, it looks like an ordinary gray pseudo-dog. In reality, it's much more dangerous than its relatives. This dog is able to generate dozens of his own phantoms, which are able to inflict physical damage to its victims. The nature of this phenomenon is unknown, because scientists have not yet managed to catch a Chernobyl dog alive. These creatures live in small numbers, generally only near the "Brain Scorcher". It's possible that more of them live deeper in the North. Because of the inaccessibility of that area, the Chernobyl dog remains unresearched. Scientists have therefore only come up with theories. Some speculate that the Chernobyl dogs have unique psi abilities, that give them higher intelligence in comparison to its counterparts. It could have been caused by the "reverse" effect of the "Brain Scorcher". This is the only way to explain the unique behavior of these creatures: they surround their victims from different sides, generate dozens of phantoms and observe the death of their victims from afar...</text>
+   </string>
+   <string id="Cat">
+      <text>Cat</text>
+   </string>
+   <string id="enc_mutant_cat_general">
+      <text>Some cats have survived in the Zone, having undergone minor mutations, but their overall behaviour has not changed. They prefer to stay close to stalker camps, but occasionally they can also be found in the woods. Having numerical advantage, they can drive other monsters away from the camp. They are not a threat to humans.</text>
+   </string>
+   <string id="Tiger">
+      <text>Tiger</text>
+   </string>
+   <string id="enc_mutant_tiger_general">
+      <text>This type of cat has undergone amazing mutations in the Zone, as it looks very much like the long extinct saber-toothed cats. Scientists have no way of explaining this phenomenon. This predator, due to its size, weight and long fangs, is able to literally tear to shreds almost any mutant in a matter of seconds. Nonetheless, they appear to be friendly towards people.</text>
+   </string>
+   <string id="Wolf">
+      <text>Coyote</text>
+   </string>
+   <string id="enc_mutant_wolf_general">
+      <text>Stalkers call them coyotes, but they're probably just simple homeless dogs, who have managed to survive in the harsh conditions of the Zone. They are not a threat to stalkers and may even help to fight off hostile monsters.</text>
+   </string>
+   <string id="Fox">
+      <text>Fox</text>
+   </string>
+   <string id="enc_mutant_fox_general">
+      <text>The foxes living in the Zone have not been subjected to visible mutations and are quite comfortable in this hostile environment. From time to time they wage war over territory with blind dogs. They pose no danger to stalkers.</text>
+   </string>
+   <string id="Wolf_angry">
+      <text>Wolf</text>
+   </string>
+   <string id="enc_mutant_wolf_angry_general">
+      <text>Ordinary wolves that have not been subjected to any visible mutations. They coexist well with blind dogs and pseudo-dogs. They are quite a serious threat to humans, especially when an entire pack attacks.</text>
+   </string>
+   <string id="Blind">
+      <text>Blind dog</text>
+   </string>
+   <string id="Bloodsucker">
+      <text>Bloodsucker</text>
+   </string>
+   <string id="Boar">
+      <text>Boar</text>
+   </string>
+   <string id="Crow">
+      <text>Crow</text>
+   </string>
+   <string id="Rat">
+      <text>Rat</text>
+   </string>
+   <string id="Chimera">
+      <text>Chimera</text>
+   </string>
+   <string id="enc_mutant_chimera_general">
+      <text>The result of genetic experiments under the UAP (universal animal-protector) program. Very smart, strong and fast. It hides; prefers to flank victims around the back. It has a duplicate system of internal organs and an additional brain, making it very sturdy and hard to kill. This is further complicated by its regenerative abilities. It's practically at the top of the food chain. There's also a bear-like variant. Its only worthy opponents in the Zone are the Tiger, the Chernobyl dog, the Librarian and the Pseudogiant.</text>
+   </string>
+   <string id="enc_mutant_blind_general">
+      <text>Several generations of the dog species have lived and died since the catastrophe. Each was more affected by the Zone than the previous one. Rapid mutation lead to a vast improvement in previously peripheral abilities, frequently at the expense of primary ones. The most notable biological change was the loss of sight, paired with an uncanny development of smell. As it turned out, blind cubs survived in the Zone as well as normal ones, if not better. As a result, the common dog quickly became extinct in the Zone, giving way to a new breed - that of blind dogs. The animals instinctively identify and avoid anomalies, radiation, and other invisible dangers that plague the Zone. Like their wild ancestors - the wolves - blind dogs hunt in packs. An encounter with a large group of these animals can be dangerous even to an experiences and well-armed stalker.</text>
+   </string>
+   <string id="enc_mutant_bloodsucker_general">
+      <text>Experienced stalkers describe this semi-legendary beast as a tall, hunched humanoid with a mess of tentacles where its mouth should be. According to those who saw it and lived to tell the tale, the creature uses its tentacles to cling to the victim's throat, paralyze it, and suck it dry of blood. A dry, mummified shell is all that's left of what used to be a living human being. The most astounding feature of the bloodsucker, however, is its ability to become invisible. Countless dead or missing stalkers are said to have perished in the merciless grip of a bloodsucker. The lucky few who have survived an encounter tell spine-chilling tales of marshes and subterranean areas haunted by the Zone's version of Count Dracula.</text>
+   </string>
+   <string id="enc_mutant_boar_general">
+      <text>A massive, mutated animal, reaching 1.5 meters at the shoulder. The Zone boar's aggressiveness and ability to survive surpass by far those of its relatives outside the contaminated area. Radiation and anomalies left their mark on the physical appearance of the animal as well: its fur is entirely gone in some places, and long and bristly in others. The hooves have evolved into sturdy, sharp claws, the pupils became colorless, and the boar's bald head is marred by pigmentation disorders and deep wrinkles. Zone boars are quite resistant to radiation and can stay in heavily contaminated areas for longer periods of time. They usually charge at their victims, trying to knock them over and then rip them to shreds.</text>
+   </string>
+   <string id="enc_mutant_crow_general">
+      <text>The only bird species to have survived in the Zone, enduring increased radiation levels and effectively avoiding anomalies. While the army pilots need to rely on complex detectors to avoid gravitational disturbances, the crow seems to rely on its own senses for that - a mystery that drives ornithologists and biologists mad. Various theories attempting to explain the phenomenon exist, all of them pointing to a highly specialized development of the bird's brain.</text>
+   </string>
+   <string id="enc_mutant_rat_general">
+      <text>The rats survived in the Zone without undergoing any special mutations. Generally not dangerous to humans. They wage war for territory with their rivals Tushkanos and Chernobyl cockroaches.</text>
+   </string>
+   <string id="enc_mutant_flesh_general">
+      <text>Like most other living creatures in the Zone, the domestic pig also underwent serious biological changes since the day of the catastrophe. It seems the genes responsible for metabolism were especially affected in this case. Mutant pigs, known simply as Flesh among the stalkers, are one of the most vivid examples of the Zone's disastrous perversion of nature. Mutant pigs developed a protective layer of scales and exoskeletal plates. Their regeneration potential increased several times, as did the complexity of their nervous system. Just like a normal pig, a Flesh is an omnivore and may attack a stalker if hungry.</text>
+   </string>
+   <string id="enc_mutant_poltergeist_general">
+      <text>Supernatural in the eyes of some, invisible creatures haunting the deeper reaches of the Zone, usually haunting old, abandoned buildings. Nothing is known about their origin, although rumors in circulation claim they are spirits of stalkers hit by a massive wave of radiation. Their mysterious appearances and disappearances seem to correspond to the poltergeist legend, hence the name. Known encounters with poltergeists are quite diverse in fact: from mischievous laughter and blood-chilling howling, to deadly fireballs appearing out of nowhere. Unfortunately, all information about the poltergeist phenomenon originates from unclear and contradictory stories of questionable validity.</text>
+   </string>
+   <string id="enc_mutant_pseudodog_general">
+      <text>Despite the name, the pseudodogs evolved directly from wolves. The animals inhabiting the forests at the time of the catastrophe gave rise to one of the Zone's most dangerous mutant species. Pseudodogs are about as different from mutant dogs as wild wolves differ from poodles. The creatures mark and guard their territory carefully, attacking anyone stupid enough to venture onto their land on sight. Lightning-fast reflexes, uncanny dexterity and razor-sharp teeth make the pseudodog a formidable enemy for large mutants and well-armed stalkers.</text>
+   </string>
+   <string id="enc_mutant_pseudogiant_general">
+      <text>The pseudogiant resembles a massive, drop-shaped abdomen with a pair of disproportionately large limbs. The limbs are arms and legs at the same time. The creature uses them to move around and grab its victims. An adult pseudogiant can weigh up to two tons and stand 2 meters tall. Their clumsy appearance might be deceiving, since they can move very rapidly if needed. Their muscles are exceptionally powerful and their bones are as hard as steel. The creature's brain is protected by a sturdy (up to 10 centimeters thick) skull, while many complex functions are controlled by the spinal medulla. Another astonishing feature of the beast is its ability to create local shock waves, which damage all living things in the vicinity.</text>
+   </string>
+   <string id="enc_mutant_snork_general">
+      <text>It seems these creatures were human at some point, though it is difficult to imagine what conditions could turn a human being into such disgusting beast. Snorks are insane creatures leading a beast's life and differing little from other carnivorous monsters in the Zone. They move on all fours in long jumps, constantly sniffing the ground in hope of picking up the scent of prey. They hunt carefully, in a calculated manner, frequently setting up ambushes. Thanks to its uncanny reflexes and powerful muscles, the snork can approach the victim, pin it down in one long, accurate jump, and tear it to shreds in a matter of seconds. Strips of army uniforms and other clothing are occasionally found on their bodies. It stands to reason that they are all that's left of missing military stalkers.</text>
+   </string>
+   <string id="enc_mutant_tushkano">
+      <text>In fact these animals are not related to jerboas, although there is a distinct resemblance. Attempts at determining the exact species from which this rodent evolved have so far been unsuccessful, although its ancestor must have been a gregarious rodent. Reaching up to 40cm at the shoulder, the animal is far more dexterous, aggressive and ravenous than its desert cousin. Mutant rodents live mainly in basements of destroyed buildings, feeding on everything they can get their teeth in, from plants to careless stalkers. Occasionally a pack of rodents will attack and kill large animals and mutants, tearing them apart before they can escape.</text>
+   </string>
+   <string id="enc_mutant_zombie_general">
+      <text>The Brain Scorcher strips its victim of mind and reason, leaving only an empty, mindless shell. The brainless bodies then turn into zombies, following only the most basic instincts, wandering aimlessly around the Zone without weapons or clothing. Zombies are little more than sluggish walking corpses, caring only about food and sleep. They eat and drink just about anything they can get their claws on, hence they are virtually soaked in radiation and toxic waste. Usually they roam the Zone without any apparent purpose or just lie corpse-like in abandoned buildings. However, as soon as they sense the presence of a human being, they attack immediately. Experienced stalkers have learned to avoid them if they can.</text>
+   </string>
+   <string id="Flesh">
+      <text>Flesh</text>
+   </string>
+   <string id="General">
+      <text>General information</text>
+   </string>
+   <string id="mutant_boar_leg">
+      <text>Boar's hoof</text>
+   </string>
+   <string id="mutant_boar_leg_description">
+      <text>Wild boar's hoof is used by scientists to make a number of drugs, the most common of which is the anti-radiation drug. If you hang it on the belt and have taming skills, you can avoid aggression from boars.</text>
+   </string>
+   <string id="mutant_dog_tail">
+      <text>Dog's tail</text>
+   </string>
+   <string id="mutant_dog_tail_description">
+      <text>Resistance of mutated dogs' skin to chemical and electrical effects has long attracted the attention of scientists. Due to the lack of fat deposits, the tails of dogs are most suitable for laboratory tests. If you hang it on the belt, and have taming skills, you can avoid aggression from dogs.</text>
+   </string>
+   <string id="mutant_flesh_eye">
+      <text>Flesh's eye</text>
+   </string>
+   <string id="mutant_flesh_eye_description">
+      <text>After the mutation, the enlarged eye of the flesh has acquired a number of properties, the most useful of which is the ability to regenerate the lens after damage. The details of this process are not exactly known, but successfull discovery would revolutionize medicine. You can contribute to science by selling the flesh eye to scientists for research. If you hang it on your belt, you can avoid aggression from the flesh if you have taming skills.</text>
+   </string>
+   <string id="mutant_krovosos_jaw">
+      <text>Bloodsucker's jaw</text>
+   </string>
+   <string id="mutant_krovosos_jaw_description">
+      <text>The tentacles of the bloodsucker contain a special gland: it secretes an enzyme that dissolves the skin of the victim, while preventing blood clotting. If scientists are able to determine the structure of the enzyme, it will be a breakthrough in medicine. If you hang it on the belt and have taming skills, you can avoid aggression from the bloodsuckers.</text>
+   </string>
+   <string id="mutant_psevdodog_tail">
+      <text>Pseudodog's tail</text>
+   </string>
+   <string id="mutant_psevdodog_tail_description">
+      <text>Resistance of mutated dogs' skin to chemical and electrical effects has long attracted the attention of scientists. Due to the lack of fat deposits, the tails of dogs are most suitable for laboratory tests. If you hang it on the belt and have taming skills, you can avoid aggression from pseudo-dogs.</text>
+   </string>
+   <string id="mutant_snork_leg">
+      <text>Snork's leg</text>
+   </string>
+   <string id="mutant_snork_leg_description">
+      <text>A snork's leg, unlike the human one, contains more tendons with stunning elasticity. This explains the ability of snorks to make incredible jumps. If you hang it on your belt and have taming skills, you can avoid aggression from snorks.</text>
+   </string>
+   <string id="Mutants">
+      <text>Animals and mutants</text>
+   </string>
+   <string id="Poltergeist">
+      <text>Poltergeist</text>
+   </string>
+   <string id="Pseudodog">
+      <text>Pseudodog</text>
+   </string>
+   <string id="Pseudogiant">
+      <text>Pseudogiant</text>
+   </string>
+   <string id="Snork">
+      <text>Snork</text>
+   </string>
+   <string id="Tushkano">
+      <text>Tushkano</text>
+   </string>
+   <string id="Zombie">
+      <text>Zombie</text>
+   </string>
+   <string id="Controller">
+      <text>Controller</text>
+   </string>
+   <string id="enc_mutant_controller_general">
+      <text>A rare mutant that appears close to the center of the Zone. It looks like a human with a disproportionately large head. It has a high sense of perception, as well as the ability to control the behavior of less sophisticated creatures. Mature specimens are even able to take control of humans. It is a dangerous opponent, which even the most experienced stalkers are afraid to meet.</text>
+   </string>
+   <string id="mutant_zombie_hand">
+      <text>Zombie's hand</text>
+   </string>
+   <string id="mutant_zombie_hand_description">
+      <text>The properties of the zombie hand have not been well studied. You can contribute to science by selling it to scientists for research. If you hang it on your belt, you can avoid aggression from zombies if you have taming skills.</text>
+   </string>
+   <string id="mutant_face_tushkano">
+      <text>Tushkano's head</text>
+   </string>
+   <string id="mutant_face_tushkano_description">
+      <text>The tushkanos show signs of advanced intellect and researchers are trying to figure out how information is stored in their tiny brains. Furthermore, scientists allegedly make medicine out of their brains. If you hang it on the belt and have taming skills, you can avoid aggression from Tushkanos.</text>
+   </string>
+   <string id="mutant_hand_kontroler">
+      <text>Controller's hand</text>
+   </string>
+   <string id="mutant_hand_kontroler_description">
+      <text>Controllers posess psychic abilities. From a distance they can only intimidate and create various hallucinations, but when the victims get closer, they can inflicts damage. Scientists believe that their power lurks in their hand, but it has not yet been fully researched. If you hang it on your belt, you can avoid aggression from the controllers, if you have taming skills.</text>
+   </string>
+   <string id="mutant_poltergeist_glas">
+      <text>Poltergeist's eye</text>
+   </string>
+   <string id="mutant_poltergeist_glas_description">
+      <text>Nobody knows why scientists need the poltergeist's eyes, but they pay well for it.</text>
+   </string>
+   <string id="mutant_psevdogigant_hand">
+      <text>Pseudogiant's hand</text>
+   </string>
+   <string id="mutant_psevdogigant_hand_description">
+      <text>The hand of a pseudogiant has properties that scientists have not yet made public. They pay well for it. If you hang it on your belt, you can avoid aggression from pseudo giants if you have taming skills.</text>
+   </string>
+   <string id="mutant_tail_cat">
+      <text>Cat's tail</text>
+   </string>
+   <string id="mutant_tail_cat_description">
+      <text>Resistance of mutated cat skin to chemical and electrical effects has long attracted scientists' attention. Because of the lack of fat deposits, the tails of cats are most suitable for laboratory studies. It is possible to hang it on the belt, but no positive effects have been noticed yet.</text>
+   </string>
+   <string id="mutant_chimera_kogot">
+      <text>Chimera's claw</text>
+   </string>
+   <string id="mutant_chimera_kogot_description">
+      <text>Chimeras posess claws stronger than any metal. Scientists are particularly interested in their properties. If you hang them on the belt and have taming skills, you can avoid aggression from chimeras.</text>
+   </string>
+   <string id="Bibliotekar">
+      <text>Librarian</text>
+   </string>
+   <string id="enc_mutant_bibliotekar_general">
+      <text>A rare mutant. Many have heard about it, but very few have seen it. As a rule of thumb, any contact with this creature means certain death. Extremely resilient. Almost nothing is known about its origin. It is said that this is one of the subspecies of Izloms or the product of genetic splicing of Izloms and Chimeras. It appears to be huge beast with extremely strong hypertrophied upper limbs. It is capable of walking on two legs, but prefers to move on all-fours. Given the ability to pronounce some selectable words, along with the growl of the beast, as well as its method of movement seem to confirm the hypothesis of it originating from an Izlom. Extremely dangerous. When seen, it is strongly recommended to stay away.</text>
+   </string>
+   <string id="mutant_digitis_biblio">
+      <text>Librarian's hand</text>
+   </string>
+   <string id="mutant_digitis_biblio_description">
+      <text>A rare part of a very rare mutant. Its properties are still being studied. Many people want to buy it just as decoration. If you hang it on the belt and have taming skills, you can avoid aggression from the librarians.</text>
+   </string>
+   <string id="Burer">
+      <text>Burer</text>
+   </string>
+   <string id="enc_mutant_burer_general">
+      <text>Ugly yellow and white dwarfs living in the underground, their eyes are sensitive to bright light. They set traps for stalkers and scientists who dare to explore the underground areas. They try to block all exits with debris. Burers have powerful hands, which they use to tear up their victims. The Burers are at war with blind dogs. They character is extremely nasty, their constant rage makes them do wild and unpredictable things. They posess well-developed perception and telekinetic abilities. Their perception helps them to feel the enemy and assume its location, without needing to see them. Meanwhile telekinesis allows them to manipulate fairly large objects from a distance, throw them at the enemy and deliver powerful telekinetic blows. Such abilities, character as well as advanced intelligence, make the Burers one of the most dangerous opponents in the darkest places of the Zone.</text>
+   </string>
+   <string id="mutant_burer_hand">
+      <text>Burer's hand</text>
+   </string>
+   <string id="mutant_burer_hand_description">
+      <text>The burer's hand has acquired a number of properties, the most useful of which is its strong resistance to radiation. The details of how this is achieved are not exactly known. You can contribute to science by selling the burer hand to scientists for research. If you hang it on your belt, you can avoid aggression from the burers if you have taming skills.</text>
+   </string>
+   <string id="Fracture">
+      <text>Izlom</text>
+   </string>
+   <string id="enc_mutant_fracture_general">
+      <text>Either the result of experiments, or the result of the Zone's influence on the people remaining after the accident. Or maybe the result of a sick imagination and shaken psyche of some stalkers... It is believed that these mutants, very similar to thin and slouch people, have a hypertrophic limb, and their brain and nervous system have not undergone such destructive changes as zombies. They are cunning and are trying to lure the stalkers by talking or pleading to them. They say that by sharing food, you can learn interesting information about the Zone... Although many stalkers say they have rarely seen an Izlom in the Zone. Who knows, maybe everyone who has seen it has learned something very important about the Zone and decided to leave this world behind...</text>
+   </string>
+   <string id="mutant_fracture_hand">
+      <text>Izlom's arm</text>
+   </string>
+   <string id="mutant_fracture_hand_description">
+      <text>Scientists are not directly interested in the hand itself, but in the synovial tendon canals. For unknown reasons, the fluid contained there has properties that far exceed the properties of all known anti-cancer drugs. Its molecular composition is the same as a usual human's, but under the action of a specific radiation exposure, the properties change radically. Attempts to create an analogue in the laboratory conditions have not been successful. The overwhelming amount of this "commodity" goes abroad due to the ruin and poverty of Ukrainian science. If you hang it on the belt and have taming skills, you can avoid the aggression from Izloms.</text>
+   </string>
+   <string id="Mutant_zanoza">
+      <text>Splinter</text>
+   </string>
+   <string id="mutant_zanoza_general">
+      <text>A mutant, that is a hybrid of a plant and an animal.</text>
+   </string>
+   <string id="enc_mutant_zanoza_general">
+      <text>A mutant, that is a hybrid of a plant and an animal.</text>
+   </string>
+   <string id="mutant_zanoza_leg">
+      <text>Splinter's leg</text>
+   </string>
+   <string id="mutant_zanoza_leg_description">
+      <text>It looks like an ordinary tree branch. But under the influence of unknown anomalies, this branch became very strong. Because of this property, it is sought after by scientists. If you hang it on a belt, you can avoid aggression from splinters if you possess taming skills.</text>
+   </string>
+   <string id="mutant_spleen_rat">
+      <text>Rat's spleen</text>
+   </string>
+   <string id="mutant_spleen_rat_description">
+      <text>It is still unknown who was the first to discover this. Probably some curious scientists, but they claim that the spleen of mutated rats for unknown and incredible reasons contain and produce stem cells, widely used in genetic engineering. These cells are so resistant to external influences that they can be stored in the removed undamaged organ, without additional treatment, for up to 14 days... Such a spleen is not found in all rodents, but stalkers have learned to accurately identify the right individual by its size and color of skin... The autopsy of rats is disgusting, but the high price of the spleen makes it worthwhile ... You can hang on the belt, but no positive effects have been noticed yet.</text>
+   </string>
+   <string id="Tarakan">
+      <text>Cockroach</text>
+   </string>
+   <string id="enc_mutant_tarakan_general">
+      <text>Mutated Chernobyl cockroach. It appears to be a common cockroach, which under the influence of the Zone, has significantly grown in size. It can reach up to 3 kg in weight. It is able to move quickly. An omnivore, stinks heavily and very angry: people and mutants are usually attacked in packs. Alone, they do not pose a danger, usually only cause some novices to vomit. It makes quite deep cuts on the unprotected parts of the body, but it is also able to bite through suits. The salivary glands are poisonous, their secretion smells bad. The belly of cockroaches is used behind the Perimeter for preparation of essential ointments and, according to unofficial information, in cosmetic products.</text>
+   </string>
+   <string id="mutant_part_tarakan">
+      <text>Cockroach's belly</text>
+   </string>
+   <string id="mutant_part_tarakan_description">
+      <text>The belly of a mutated Chernobyl cockroach. Its properties and applications have not been studied well. It is said that they are used to prepare some ointments, enzymes and hormones. If you hang it on the belt and have taming skills, you can avoid aggression from the cockroaches.</text>
+   </string>
+   <string id="Tushkano_metro">
+      <text>Ghoul</text>
+   </string>
+   <string id="enc_mutant_tushkano_metro">
+      <text>Relatively rare creature, living mainly in caves and abandoned buildings. It resembles local tushkanos in its appearance, but significantly exceeds them both in size and aggressiveness.</text>
+   </string>
+   <string id="mutant_hand_tushkano">
+      <text>Ghoul's hand</text>
+   </string>
+   <string id="mutant_hand_tushkano_description">
+      <text>A hand of a ghoul. Its properties and applications have not been well studied. It is said that they are used for the preparation of some medicines. If you hang it on your belt, and have taming skills, you can avoid aggression from the ghouls.</text>
+   </string>
+   <string id="Ratlike">
+      <text>Ratwolf</text>
+   </string>
+   <string id="mutant_ratlike_tail">
+      <text>Ratwolf's tail</text>
+   </string>
+   <string id="mutant_ratlike_tail_desc">
+      <text>The tail of the ratwolf is little studied, so its properties are not yet known. Scientists are eager to pay much for it. If you hang it on the belt and have taming skills, you can avoid aggression from the ratwolves.</text>
+   </string>
+   <string id="enc_mutant_ratlike">
+      <text>A type of rat, that has undergone strong mutations. Named a rat wolf due to its habitat. In contrast to the rat, which settled near people or in underground areas, the ratwolf prefers wooded or steppe areas.</text>
+   </string>
+   <string id="dead_monster_use">
+      <text>Harvest mutant parts ($$$ACTION_USE$$)\nDrag the corpse (SHIFT+$ACTION_USE$$)</text>
+   </string>
+   <string id="dead_monster_used">
+      <text>Damaged corpse\nDrag the corpse (SHIFT+$$ACTION_USE$$)</text>
+   </string>
+   <string id="farcry_knife_needed">
+      <text>You have to hold a knife to harvest the mutant parts.</text>
+   </string>
+   <string id="panic_device_discharged">
+      <text>The monster repellent device's power is drained. Recharge it.</text>
+   </string>
+   <string id="panic_device_recharged">
+      <text>The monster repellent device is fully charged.</text>
+   </string>
+   <string id="panic_device_disabled">
+      <text>System failure. Recharging is not possible.</text>
+   </string>
+   <string id="mutant_fox_tail">
+      <text>Fox's tail</text>
+   </string>
+   <string id="mutant_fox_tail_description">
+      <text>Resistance of mutated foxes' skin to chemical and electrical effects has long attracted the attention of scientists. Because of the lack of fat deposits, fox tails are most suitable for laboratory studies. It is possible to hang it on the belt, but no positive effects have been observed so far.</text>
+   </string>
+   <string id="mutant_wolf_tail">
+      <text>Wolf's tail</text>
+   </string>
+   <string id="mutant_wolf_tail_description">
+      <text>Resistance of mutated wolf skin to chemical and electrical effects has long attracted the attention of scientists. Due to the lack of fatty deposits, the tails of wolves are most suitable for laboratory studies. If you hang it on the belt, you can avoid aggression from wolves if you have taming skills.</text>
+   </string>
+   <string id="mutant_wolf_tail_black">
+      <text>Black wolf's tail</text>
+   </string>
+   <string id="mutant_wolf_tail_black_description">
+      <text>The tail of the black wolf is a particularly valuable and expensive trophy. However, it's better not to sell it...</text>
+   </string>
+</string_table>

@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="bar_rostok">
+		<text>Wild Territory - Rostok</text>
+	</string>
+	<string id="car_character_use">
+		<text>Open the door ($$ACTION_USE$$)</text>
+	</string>
+	<string id="character_use">
+		<text>Talk ($$ACTION_USE$$)</text>
+	</string>
+	<string id="dead_character_use_or_drag">
+		<text>Search body ($$ACTION_USE$$) \n Drag body (SHIFT+$$ACTION_USE$$)</text>
+	</string>
+	<string id="dead_character_use">
+		<text>Search body ($$ACTION_USE$$)</text>
+	</string>
+    <string id="inventory_item_use_or_drag">
+    	<text>Pick up item ($$ACTION_USE$$) \n Drag item (SHIFT+$$ACTION_USE$$)</text>
+    </string>
+    <string id="game_object_drag">
+    	<text>Drag item (SHIFT+$$ACTION_USE$$)</text>
+    </string>
+	<string id="general_complete_task">
+		<text>Task complete:</text>
+	</string>
+	<string id="general_fail_task">
+		<text>Task failed:</text>
+	</string>
+	<string id="general_help">
+		<text>Quick, I need a medkit! I'm dying here!</text>
+	</string>
+	<string id="general_in_item">
+		<text>Item received:</text>
+	</string>
+	<string id="general_in_money">
+		<text>Money received:</text>
+	</string>
+	<string id="general_new_diary">
+		<text>New journal entry.</text>
+	</string>
+	<string id="general_new_encyclopedy">
+		<text>New encyclopedia article.</text>
+	</string>
+	<string id="general_new_task">
+		<text>New task:</text>
+	</string>
+	<string id="general_out_item">
+		<text>Item lost:</text>
+	</string>
+	<string id="general_out_money">
+		<text>Money lost:</text>
+	</string>
+	<string id="general_update_task">
+		<text>Task updated:</text>
+	</string>
+	<string id="physic_shell_use">
+		<text>Move object ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_codelock">
+		<text>Combination lock ($$ACTION_USE$$)</text>
+	</string>
+	<string id="to_aes">
+		<text>To Chernobyl NPP</text>
+	</string>
+	<string id="to_agroprom">
+		<text>To Agroprom</text>
+	</string>
+	<string id="to_agroprom_underground">
+		<text>To the catacombs</text>
+	</string>
+	<string id="to_bar">
+		<text>To Rostok</text>
+	</string>
+	<string id="to_darkvalley">
+		<text>To Dark Valley</text>
+	</string>
+	<string id="to_escape">
+		<text>To the Cordon</text>
+	</string>
+	<string id="to_garbage">
+		<text>To the Garbage</text>
+	</string>
+	<string id="to_military">
+		<text>To the warehouses</text>
+	</string>
+	<string id="to_pripyat">
+		<text>To Pripyat</text>
+	</string>
+	<string id="to_radar">
+		<text>To the Brain Scorcher</text>
+	</string>
+	<string id="to_rostok">
+		<text>To the Wild Territory</text>
+	</string>
+	<string id="to_yantar">
+		<text>To Yantar</text>
+	</string>
+	<string id="st_helmet_countdown">
+		<text>Protection shutdown</text>
+	</string>
+	<string id="st_psy_danger">
+		<text>Critical psi-emission level. Leave the dangerous zone immediately.</text>
+	</string>
+	<string id="st_radiation_danger">
+		<text>Hazardous radiation level. Protection required to pass.</text>
+	</string>
+	<string id="st_found_new_pda">
+		<text>Found information:</text>
+	</string>
+	<string id="aver">
+		<text>Forest Thicket</text>
+	</string>
+	<string id="to_aver">
+		<text>To the Forest Thicket</text>
+	</string>
+	<string id="av_peshera">
+		<text>Labyrinth Cave</text>
+	</string>
+	<string id="to_av_peshera">
+		<text>To the Labyrinth Cave</text>
+	</string>
+	<string id="marsh">
+		<text>Marshes</text>
+	</string>
+	<string id="to_marsh">
+		<text>To the Marshes</text>
+	</string>
+	<string id="peshera">
+		<text>Cave</text>
+	</string>
+	<string id="puzir">
+		<text>Forgotten Forest</text>
+	</string>
+	<string id="limansk">
+		<text>Limansk</text>
+	</string>
+	<string id="hospital">
+		<text>Hospital</text>
+	</string>
+	<string id="generators">
+		<text>Generators</text>
+	</string>
+	<string id="warlab">
+		<text>Military Laboratory</text>
+	</string>
+	<string id="red_forest">
+		<text>Red Forest</text>
+	</string>
+	<string id="lost_village">
+		<text>Lost Village</text>
+	</string>
+	<string id="to_peshera">
+		<text>To the Cave</text>
+	</string>
+	<string id="to_puzir">
+		<text>To the Forgotten Forest</text>
+	</string>
+	<string id="to_limansk">
+		<text>To Limansk</text>
+	</string>
+	<string id="to_hospital">
+		<text>To the Hospital</text>
+	</string>
+	<string id="to_generators">
+		<text>To the Generators</text>
+	</string>
+	<string id="to_warlab">
+		<text>To the Military Laboratory</text>
+	</string>
+	<string id="to_red_forest">
+		<text>To the Red Forest</text>
+	</string>
+	<string id="to_lost_village">
+		<text>To the Lost Village</text>
+	</string>
+	<string id="dead_city">
+		<text>Dead City</text>
+	</string>
+	<string id="zaton">
+		<text>Zaton</text>
+	</string>
+	<string id="jupiter">
+		<text>Area around Jupiter</text>
+	</string>
+	<string id="pripyat">
+		<text>East Pripyat</text>
+	</string>
+	<string id="jupiter_underground">
+		<text>Overpass</text>
+	</string>
+	<string id="labx8">
+		<text>Laboratory X-8</text>
+	</string>
+	<string id="cs_agroprom_underground">
+		<text>Catacombs</text>
+	</string>
+	<string id="to_dead_city">
+		<text>To the Dead City</text>
+	</string>
+	<string id="to_zaton">
+		<text>To Zaton</text>
+	</string>
+	<string id="to_jupiter">
+		<text>To the Area around Jupiter</text>
+	</string>
+	<string id="to_pripyat2">
+		<text>To East Pripyat</text>
+	</string>
+	<string id="to_jupiter_underground">
+		<text>To the Overpass</text>
+	</string>
+	<string id="to_labx8">
+		<text>To Laboratory X-8</text>
+	</string>
+	<string id="to_cs_agroprom_underground">
+		<text>To the Catacombs</text>
+	</string>
+	<string id="predbannik">
+		<text>Outskirts</text>
+	</string>
+	<string id="garbage_old">
+		<text>Tech Cemetary</text>
+	</string>
+	<string id="yantar_old">
+		<text>Portal</text>
+	</string>
+	<string id="swamp_old">
+		<text>Dead Swamps</text>
+	</string>
+	<string id="to_predbannik">
+		<text>To the Outskirts</text>
+	</string>
+	<string id="to_garbage_old">
+		<text>To the Tech Cemetary</text>
+	</string>
+	<string id="to_yantar_old">
+		<text>To the Portal</text>
+	</string>
+	<string id="to_swamp_old">
+		<text>To the Dead Swamps</text>
+	</string>
+	<string id="atp_for_test22">
+		<text>ATP territory</text>
+	</string>
+	<string id="to_atp_for_test22">
+		<text>To the ATP territory</text>
+	</string>
+	<string id="k01_darkscape">
+		<text>Dark Hollow</text>
+	</string>
+	<string id="to_darkscape">
+		<text>To the Dark Hollow</text>
+	</string>
+	<string id="promzone">
+		<text>Industrial \narea</text>
+	</string>
+	<string id="to_promzone">
+		<text>To the Industrial area</text>
+	</string>
+	<string id="hiding_road">
+		<text>Hidden Valley</text>
+	</string>
+	<string id="to_hiding_road">
+		<text>To the Hidden Valley</text>
+	</string>
+	<string id="deadcity">
+		<text>Dead City</text>
+	</string>
+	<string id="to_deadcity">
+		<text>To the Dead City</text>
+	</string>
+	<string id="digger_stash">
+		<text>Digger's stash</text>
+	</string>
+	<string id="to_digger_stash">
+		<text>To the Digger's stash</text>
+	</string>
+	<string id="lab_x14">
+		<text>Laboratory X-14</text>
+	</string>
+	<string id="to_lab_x14">
+		<text>To the Laboratory X-14</text>
+	</string>
+	<string id="level_f-1">
+		<text>Collective Farm</text>
+	</string>
+	<string id="to_level_f-1">
+		<text>To the Collective Farm</text>
+	</string>
+	<string id="dark_forest">
+		<text>Dark Forest</text>
+	</string>
+	<string id="to_dark_forest">
+		<text>To the Dark Forest</text>
+	</string>
+	<string id="l04_pogost">
+		<text>Graveyard</text>
+	</string>
+	<string id="to_l04_pogost">
+		<text>To the Graveyard</text>
+	</string>
+	<string id="l03_rinok">
+		<text>Market</text>
+	</string>
+	<string id="to_l03_rinok">
+		<text>To the Market</text>
+	</string>
+	<string id="l02_dd">
+		<text>City of Nonhumans</text>
+	</string>
+	<string id="to_l02_dd">
+		<text>To the City of Nonhumans</text>
+	</string>
+	<string id="general_use_item">
+		<text>Used:</text>
+	</string>
+	<string id="car_trunk_owerweight">
+		<text>Vehicle trunk weight limit has been exceeded!</text>
+	</string>
+	<string id="inv_box_is_full">
+		<text>Storage Box</text>
+	</string>
+	<string id="my_tresure_activated">
+		<text>The stash has been laid down.</text>
+	</string>
+	<string id="my_tresure_name">
+		<text>My stash for loot</text>
+	</string>
+	<string id="homyak_detected">
+		<text>Stalker, don't hoard so much!</text>
+	</string>
+	<string id="lucky_homyak_found">
+		<text>A happy hoarding hamster has been detected!</text>
+	</string>
+	<string id="csund_exit_failed">
+		<text>Someone or something is blocking the way out.</text>
+	</string>
+</string_table>
